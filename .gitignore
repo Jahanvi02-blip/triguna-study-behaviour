@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.streamlit/
+triguna_study_behaviour_data.csv
